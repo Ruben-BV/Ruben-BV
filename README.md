@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 <p>
-- The changes that take us out of our comfort zone are something positive that pushes us to continue growing both personally and professionally.
+- Changes that take us out of our comfort zone are something positive that pushes us to continue growing both personally and professionally.
 <br>
 - Always ready to new challengues
 <br>
