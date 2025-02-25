@@ -11,8 +11,6 @@
 - Always ready to new challengues
 <br>
 - I love team work.
-<br>
-- Currently I am undertaking a Backend development Bootcamp by Factoria F5.
 </p>
 
 <br>
