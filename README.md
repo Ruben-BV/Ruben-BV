@@ -18,7 +18,7 @@
 ##  👨‍💻 Tech Stack
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,java,css,html&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,java,css,html,js&theme=light" />
   </a>
 </p>
 <br>
